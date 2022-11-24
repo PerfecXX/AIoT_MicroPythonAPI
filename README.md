@@ -1,2 +1,2 @@
 # MicroPython-AIoT
-MicroPython API for KMITL AioT Development Board
+MicroPython API for KMITL AIoT Development Board
